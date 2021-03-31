@@ -1,0 +1,43 @@
+name: multiple_language
+description: Internationalization in flutter with supporting multiple language
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^0.17.4
+  splashscreen: ^1.3.5
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - lg.png
+     - user.png
+     - img2.jpg
+     - logo.jpeg
+     - Victoriya.jpg
+     - itc.jpg
+     - church.jpg
+     - jorasankho.jpg
+     - niccoPark.jpg
+     - scienceCity.jpg
+     - tipuSultan.jpg
+     - screen1.jpg
+     - screen2.jpg
+     - screen3.jpg
+     - tree.jpg
